@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolhehitesh25&label=Profile%20views&color=0e75b6&style=flat" alt="kolhehitesh25" /> </p>
 
-- 🌱 I’m currently learning **Next.js , Strapi , Devops**
+- 🌱 I’m currently learning ** Java ,Next.js**
 
 - 💬 Ask me about **React , Node js , SQL**
 
