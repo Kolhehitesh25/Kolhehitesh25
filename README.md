@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** Java ,Next.js**
 
-- 💬 Ask me about **React , Node js , SQL**
+- 💬 Ask me about **React , Node js , java, SQL**
 
 - 📫 How to reach me **hiteshkohle25@gmail.com**
 
