@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh kolhe</h1>
-<h3 align="center">A passionate frontend developer and MERN developer. Working on Projects for enhancing my skills .I am from India.</h3>
+<h3 align="center">A passionate frontend developer and Java developer. Working on Projects for enhancing my skills .I am from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolhehitesh25&label=Profile%20views&color=0e75b6&style=flat" alt="kolhehitesh25" /> </p>
 
